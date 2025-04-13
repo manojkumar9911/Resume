@@ -1,6 +1,6 @@
 # Resume
 
-I have a strong understanding of Data Structures, Algorithms, and Problem-Solving, with a keen interest in competitive programming. I actively participate in online coding competitions on CodeChef and have achieved notable ranks there. 
+I am an immediate joiner & looking for a software development Role. I have a strong understanding of Data Structures, Algorithms, and Problem-Solving, with a keen interest in competitive programming. I actively participate in online coding competitions on CodeChef and have achieved notable ranks there. 
 
 My experience spans Software Development, Artificial Intelligence (AI), Machine Learning (ML), and Full-Stack Development. In AI, I developed a Differentially Private GAN model to generate synthetic data while preserving user privacy. In ML, I built Fakify (Fake Image Detection) and Stockify (Virtual Stock Prediction Platform), applying deep learning techniques for real-world applications.
 
